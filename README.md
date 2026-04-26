@@ -4,6 +4,7 @@
 
 ![Interactive Excel dashboard showing salary data by job title, country, and schedule type](images/dashboard_preview.png)
 
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
